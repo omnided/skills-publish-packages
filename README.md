@@ -52,7 +52,7 @@ We will use this token to log in to Docker, and authenticate with the package.
    ```bash
    docker login ghcr.io -u USERNAME
    ```
-1. Replace `USERNAME` with your GitHub username.
+1. Replace `USERNAME` with your GitHub username. 
 1. Enter your new Personal Access Token as the password.
 1. Press **Enter**.
 
